@@ -116,8 +116,7 @@ Viknesh Veluchamy
 B.Tech — Artificial Intelligence & Data Science
 Research Interest: Medical Imaging • CNN • Deep Learning • AI for Healthcare
 
-LinkedIn: https://linkedin.com/in/vikneshvenkat
-
+LinkedIn: https:https://www.linkedin.com/in/viknesh-v/
 HuggingFace: https://huggingface.co/vikneshveluchamy
 
 9. License
